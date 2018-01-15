@@ -9,4 +9,3 @@ export default {
 </script>
 
 <style src="./assets/beeper.css"></style>
-
